@@ -1,5 +1,5 @@
 # Bingo
-A text-based java program to play 5x5 Bingo for 2 players. 
+A game of chance in which each player matches the numbers printed in different arrangements on cards.
 
 ## Rules
 1.	Each player will be given a bingo card that contains numbers between the range of 1-75. 
