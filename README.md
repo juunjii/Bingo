@@ -8,7 +8,7 @@ A text-based java program to play 5x5 Bingo for 2 players.
 4.	The game will be terminated after it runs 15 times.
 5.	The winner will be determined when the player achieves either 5 squares vertically, 5 squares horizontally, or 5 squares diagonally of marked ‘0’ numbers. 
 
-## Instructions: 
+## Instructions
 1.	Please extract the folder “bingoGame” from the .rar file. 
 2.	These files should be included in the .rar file
 -	bingoCard.java
